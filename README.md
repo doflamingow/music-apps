@@ -6,3 +6,8 @@ description to apps
 * songs
 * albums
 * playlist
+* artist
+* transaction
+
+running to apps 
+``mvn spring-boot:run``
