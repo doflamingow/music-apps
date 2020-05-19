@@ -11,3 +11,9 @@ description to apps
 
 running to apps 
 ``mvn spring-boot:run``
+
+
+build to apps 
+``mvn clean install``
+
+targetd folder build output snapshot.jar
